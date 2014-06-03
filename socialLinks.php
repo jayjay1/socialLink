@@ -20,7 +20,7 @@ class socialLink extends CInputWidget
 	
 	
 	/**
-	 * @var int margin from top in percentage (%)
+	 * @var int the sidebar margin from top in percentage (%)
 	 */
 	public $top='40';
 	
@@ -30,12 +30,12 @@ class socialLink extends CInputWidget
 	 */
 	
 	public $media = array(
-		'twitter'=>array(
-			'url'=>'http://twitter.com/',
+		'facebook'=>array(
+			'url'=>'http://facebook.com/',  //http://www.facebook.com/fb_page
 			'target'=>'_blank',  //_self _target
 		),
-		'facebook'=>array(
-			'url'=>'http://facebook.com/',
+		'twitter'=>array(
+			'url'=>'http://twitter.com/',
 			'target'=>'_blank',
 		),
 		'google-plus'=>array(
