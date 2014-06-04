@@ -52,6 +52,13 @@ $this->widget('application.extensions.socialLink.socialLink', array(
 ~~~
 
 
+Download
+========
+
+https://github.com/rohitsuthar/socialLinks
+
+
+
 Usual parameters to be adjusted
 ===============================
 
