@@ -52,10 +52,10 @@ $this->widget('application.extensions.socialLink.socialLink', array(
 ~~~
 
 
-Download
-========
+Yii Extension
+=============
 
-https://github.com/rohitsuthar/socialLink
+http://www.yiiframework.com/extension/social-links/
 
 
 
