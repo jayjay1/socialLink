@@ -1,14 +1,18 @@
 <?php
 /**
  *socialLink.php
- *
  * @author Rohit Suthar <rohit.suthar@gmail.com>
  * @copyright 2014 Rohit Suthar
- * @package socialLink
+ * @package fbLikeBox
  * @version 1.0
+ * @Like Us on -  https://facebook.com/yiiexperts
+ * @Follow Us on -  https://twitter.com/yiiexperts
+ * @Mail -  yiiexpert@gmail.com
+ * @For More Extension Visit -  www.yiiexpert.github.io
  */
+
  
- // Thanks to Font Awesome
+ // Big thanks to Font Awesome
 
 class socialLink extends CInputWidget
 {
